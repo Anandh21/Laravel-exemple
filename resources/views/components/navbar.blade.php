@@ -29,7 +29,7 @@
 <div>
     <div id="navbar" class="row align-items-sm-center justify-content-sm-between ">
         <div class="col-sm-1">
-            <a href="">Acceuil</a>
+            <a href="{{ route('showTodo') }}">Todo</a>
         </div>
         <div class="col-sm-1">
             <a href="">Parcours</a>
