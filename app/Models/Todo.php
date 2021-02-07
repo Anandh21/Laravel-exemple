@@ -8,5 +8,6 @@ use Illuminate\Database\Eloquent\Model;
 class Todo extends Model
 {
     use HasFactory;
-     protected $table = "todo";
+//    permet de lier si le nom de la table n'est pas identique la table doit au pluriel
+//    protected $table = "todos";
 }

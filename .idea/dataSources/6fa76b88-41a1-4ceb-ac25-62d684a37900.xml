@@ -796,7 +796,7 @@ SELECT|sys.sys_config
     <table id="245" parent="4" name="password_resets">
       <Collation>utf8mb4_unicode_ci</Collation>
     </table>
-    <table id="246" parent="4" name="todo">
+    <table id="246" parent="4" name="todos">
       <Collation>utf8mb4_unicode_ci</Collation>
     </table>
     <table id="247" parent="4" name="users">

@@ -28,23 +28,14 @@
 
 <div>
     <div id="navbar" class="row align-items-sm-center justify-content-sm-between ">
-        <div class="col-sm-1">
+        <div class="col-sm-2 offset-4">
             <a href="{{ route('showTodo') }}">Todo</a>
         </div>
-        <div class="col-sm-1">
-            <a href="">Parcours</a>
+        <div class="col-sm-2 ">
+            <a href="{{ route('showAddTodoForm') }}">Create Todo</a>
         </div>
-        <div class="col-sm-2">
-            <a href="">Compétences</a>
-        </div>
-        <div class=" col-sm-1 ">
-            <a href="">Intérêt</a>
-        </div>
-        <div class="col-sm-1">
-            <a href="">Contact</a>
-        </div>
-        <div class="col-sm-1">
-            <a href="">Articles</a>
+        <div class="col-1 offset-3">
+
         </div>
     </div>
 </div>

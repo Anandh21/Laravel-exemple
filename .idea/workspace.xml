@@ -4,8 +4,13 @@
     <list default="true" id="8ebbe410-8bc0-4147-bad5-348b44d9fc8c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/dataSources/6fa76b88-41a1-4ceb-ac25-62d684a37900.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/6fa76b88-41a1-4ceb-ac25-62d684a37900.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/TodoController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/TodoController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/Todo.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Todo.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2021_02_06_204813_todo.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2021_02_06_204813_todos.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/components/navbar.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/navbar.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/front.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/front.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/todo/showTodo.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/todo/showTodo.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/groups/todo.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/groups/todo.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -178,7 +183,8 @@
       <option name="presentableId" value="Default" />
       <updated>1612546367464</updated>
       <workItem from="1612546371518" duration="4497000" />
-      <workItem from="1612643408385" duration="5258000" />
+      <workItem from="1612643408385" duration="5524000" />
+      <workItem from="1612691143727" duration="9196000" />
     </task>
     <servers />
   </component>
